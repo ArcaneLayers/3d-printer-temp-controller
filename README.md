@@ -2,7 +2,7 @@
 
 ![cover_photo](./Images/cover-photo.png)
 
-<button name="button" onclick="https://arcanelayers.com/the-100-temp-controlled-and-filtered-printer-enclosure/">Click here to read about the project</button>
+[Click here to read about the project](https://arcanelayers.com/the-100-temp-controlled-and-filtered-printer-enclosure/)
 
 ## Description
 
