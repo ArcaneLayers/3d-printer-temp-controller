@@ -1,6 +1,6 @@
 # 3D Printer Enclosure Temperature Controller
 
-![cover_photo](./Images/cover-photo.png)
+![cover_photo](./Images/cover-photo3.png)
 
 [Click here to read about the project](https://arcanelayers.com/the-100-temp-controlled-and-filtered-printer-enclosure/)
 
